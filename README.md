@@ -1,12 +1,4 @@
-## Screenshots
 
-### Main Plugin Window
-
-plugin_window.png.jpg
-
-### Google Maps Link Input
-
-plugin_window_Link.png.jpg
 
 ### Results Preview
 
@@ -62,6 +54,16 @@ the URL, which is just the map's viewport center and can be a bit off.
 4. Click **Add Point Layer to Map** to add a temporary point layer to the
    current project, or **Export to File...** to save directly as a
    Shapefile, GeoPackage, or GeoJSON.
+
+   ## Screenshots
+
+### Main Plugin Window
+
+plugin_window.png.jpg
+
+### Google Maps Link Input
+
+plugin_window_Link.png.jpg
 
 ## Notes / limitations
 
