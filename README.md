@@ -1,3 +1,16 @@
+## Screenshots
+
+### Main Plugin Window
+
+plugin_window.png.jpg
+
+### Google Maps Link Input
+
+plugin_window_Link.png.jpg
+
+### Results Preview
+
+plugin_window_Results.png.jpg
 # Google Maps Link to Point — QGIS Plugin
 
 **Author:** Leenath Wimukthi Gamage ([leenathgamage@gmail.com](mailto:leenathgamage@gmail.com))
