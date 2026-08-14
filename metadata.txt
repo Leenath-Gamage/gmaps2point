@@ -1,0 +1,23 @@
+[general]
+name=Google Maps Link to Point
+qgisMinimumVersion=3.0
+description=Convert Google Maps links (including short links) into point features, add them to the map, or export as Shapefile/GeoPackage/GeoJSON.
+version=1.1.0
+author=Leenath Wimukthi Gamage
+email=leenathgamage@gmail.com
+about=Paste one or more Google Maps links (e.g. https://www.google.com/maps/place/..., https://maps.app.goo.gl/..., https://www.google.com/maps/@lat,lon,15z) and convert them into point geometries. Supports adding a temporary layer to the map canvas or exporting directly to Shapefile, GeoPackage, or GeoJSON.
+changelog=1.1.0
+    - Prepared for publication on the official QGIS Plugin Repository.
+    - Updated author/maintainer details.
+    - Minor robustness improvements to URL parsing and file export.
+    1.0.0
+    - Initial release: parse Google Maps links (including goo.gl / maps.app.goo.gl short links), preview results in a table, add a point layer to the map, or export to Shapefile / GeoPackage / GeoJSON.
+tracker=https://github.com/Leenath-Gamage/gmaps2point/issues
+repository=https://github.com/Leenath-Gamage/gmaps2point
+homepage=https://github.com/Leenath-Gamage/gmaps2point
+experimental=False
+deprecated=False
+license=GPL-3.0-or-later
+tags=maps,points,google maps,import,geocoding,url,gps,vector
+category=Vector
+icon=icon.png
